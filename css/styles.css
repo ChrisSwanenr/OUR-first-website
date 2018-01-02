@@ -1,0 +1,23 @@
+h1 {
+  color: pink;
+  text-align: center;
+  font-style: italic;
+  font-family: sans-serif;
+}
+
+h3 {
+  color: blue;
+}
+
+img {
+  display: block;
+  margin: auto;
+  width: 40%;
+  box-shadow: 5px 10px 10px grey;
+}
+p {
+  font-family: cursive;
+  color: #7be7ff
+
+
+}
