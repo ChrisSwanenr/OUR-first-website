@@ -1,28 +1,12 @@
-h1 {
-  color: pink;
-  text-align: center;
-  font-style: italic;
-  font-family: sans-serif;
-}
-
-h3 {
+body {
   color: blue;
 }
-
-img {
-  display: block;
-  margin: auto;
-  width: 40%;
-  box-shadow: 5px 10px 10px grey;
+h1 {
+  color: blue;
 }
-p {
-  font-family: cursive;
-  color: #7be7ff
+ul {
+  color: red;
 }
 body {
-  background-color: #fff9f6;
-}
-li{
-  font-family: sans-serif;
-  color: hotpink
+  background-color: cream;
 }
