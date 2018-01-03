@@ -19,7 +19,7 @@ _{Random occurrences of hello kitty.  }_
 
 ## Support and contact details
 
-_{If the hello kitty bug is encountered vist www.sanrio.com}_
+_{If the hello kitty bug is encountered vist www.sanrio.com
 
 ## Technologies Used
 
